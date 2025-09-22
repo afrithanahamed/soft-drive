@@ -69,6 +69,3 @@ Your app will be live at [http://localhost:3000](http://localhost:3000) 🎉
 
 Built with ❤️ by **[Afrith Ahamed](https://github.com/afrithanahamed)**
 
----
-
-Do you want me to also **add badges (like build status, stars, tech stack icons)** at the top to make it look more eye-catching on GitHub?
